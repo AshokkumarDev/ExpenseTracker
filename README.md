@@ -1,4 +1,4 @@
-# expense_tracker
+# Expense Tracker using flutter framework
 
 A new Flutter project.
 
